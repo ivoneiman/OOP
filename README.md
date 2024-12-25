@@ -20,4 +20,4 @@ Mi nombre es Ivo, soy estudiante de **Licenciatura en Sistemas** en la **Univers
 
 ## Contacto
 
-Si tenés preguntas o comentarios sobre el código o los ejercicios, mandame msj a @contactoivoneiman@gmail.com
+Si tenés preguntas o comentarios sobre el código o los ejercicios, mandame msj a contactoivoneiman@gmail.com
